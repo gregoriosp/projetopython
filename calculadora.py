@@ -17,7 +17,7 @@ def divide(x, y):
     return x / y
 
 def calculator():
-    """Função principal da calculadoras."""
+    """Função principal da calculadorass."""
     while True:
         print("\nSelecione a operação:")
         print("1. Adição")
