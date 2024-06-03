@@ -13,7 +13,7 @@ def multiply(x, y):
 def divide(x, y):
     """Função para dividir dois números."""
     if y == 0:
-        return "Erro! Divisão por zero."
+        return "Erros! Divisão por zero."
     return x / y
 
 def calculator():
